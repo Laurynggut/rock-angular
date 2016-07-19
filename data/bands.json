@@ -1,0 +1,6 @@
+[
+{"name":"The Beatles","image":"data/beatles.jpg","decade":1968,"song":"Penny Lane"},
+{"name":"Black Sabbath","image":"data/beatles.jpg","decade":1978,"song":"Paranoid"},
+{"name":"Metallica","image":"data/beatles.jpg","decade":1988,"song":"Seek and Destroy"},
+{"name":"Nirvana","image":"data/beatles.jpg","decade":1990,"song":"Smells like teen Spirit"}
+]
